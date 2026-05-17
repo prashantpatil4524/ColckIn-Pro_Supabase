@@ -1,0 +1,17 @@
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\api\ClockInProApiServer.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\dao\AttendanceDAO.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\dao\DatabaseConnection.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\dao\EmployeeDAO.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\dao\PayrollDAO.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\main\ClockInProApp.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\model\Attendance.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\model\Employee.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\model\Payroll.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\service\AttendanceService.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\service\EmployeeService.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\service\PayrollService.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\ui\AdminDashboardPanel.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\ui\EmployeeDashboardPanel.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\ui\LoginPanel.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\ui\MainFrame.java
+D:\projects\ClockInPro_Supabase_Final\ClockInPro_Supabase\src\com\clockinpro\ui\RegisterPanel.java
